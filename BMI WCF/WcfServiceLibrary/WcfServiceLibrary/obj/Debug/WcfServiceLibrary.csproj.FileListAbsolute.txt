@@ -1,0 +1,12 @@
+c:\users\icc\documents\visual studio 2015\Projects\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll.config
+c:\users\icc\documents\visual studio 2015\Projects\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll
+c:\users\icc\documents\visual studio 2015\Projects\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.pdb
+c:\users\icc\documents\visual studio 2015\Projects\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csprojResolveAssemblyReference.cache
+c:\users\icc\documents\visual studio 2015\Projects\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.dll
+c:\users\icc\documents\visual studio 2015\Projects\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.pdb
+E:\university\narm2\excercises\BMI WCF\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll.config
+E:\university\narm2\excercises\BMI WCF\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll
+E:\university\narm2\excercises\BMI WCF\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.pdb
+E:\university\narm2\excercises\BMI WCF\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csprojResolveAssemblyReference.cache
+E:\university\narm2\excercises\BMI WCF\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.dll
+E:\university\narm2\excercises\BMI WCF\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.pdb

@@ -1,0 +1,18 @@
+c:\users\icc\documents\visual studio 2015\Projects\BMI\BMI\bin\Debug\BMI.exe.config
+C:\Users\ICC\Documents\Visual Studio 2015\Projects\BMI\BMI\bin\Debug\BMI.exe
+C:\Users\ICC\Documents\Visual Studio 2015\Projects\BMI\BMI\bin\Debug\BMI.pdb
+C:\Users\ICC\Documents\Visual Studio 2015\Projects\BMI\BMI\obj\Debug\BMI.csprojResolveAssemblyReference.cache
+C:\Users\ICC\Documents\Visual Studio 2015\Projects\BMI\BMI\obj\Debug\BMI.Form1.resources
+C:\Users\ICC\Documents\Visual Studio 2015\Projects\BMI\BMI\obj\Debug\BMI.Properties.Resources.resources
+C:\Users\ICC\Documents\Visual Studio 2015\Projects\BMI\BMI\obj\Debug\BMI.csproj.GenerateResource.Cache
+C:\Users\ICC\Documents\Visual Studio 2015\Projects\BMI\BMI\obj\Debug\BMI.exe
+C:\Users\ICC\Documents\Visual Studio 2015\Projects\BMI\BMI\obj\Debug\BMI.pdb
+E:\university\narm2\excercises\BMI WCF\BMI\BMI\bin\Debug\BMI.exe.config
+E:\university\narm2\excercises\BMI WCF\BMI\BMI\obj\Debug\BMI.exe
+E:\university\narm2\excercises\BMI WCF\BMI\BMI\obj\Debug\BMI.pdb
+E:\university\narm2\excercises\BMI WCF\BMI\BMI\bin\Debug\BMI.exe
+E:\university\narm2\excercises\BMI WCF\BMI\BMI\bin\Debug\BMI.pdb
+E:\university\narm2\excercises\BMI WCF\BMI\BMI\obj\Debug\BMI.csprojResolveAssemblyReference.cache
+E:\university\narm2\excercises\BMI WCF\BMI\BMI\obj\Debug\BMI.Form1.resources
+E:\university\narm2\excercises\BMI WCF\BMI\BMI\obj\Debug\BMI.Properties.Resources.resources
+E:\university\narm2\excercises\BMI WCF\BMI\BMI\obj\Debug\BMI.csproj.GenerateResource.Cache
